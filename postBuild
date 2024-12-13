@@ -1,0 +1,5 @@
+wget -O IXIdata.tar.gz --no-check-certificate "https://liveuclac-my.sharepoint.com/:u:/g/personal/ucacjhc_ucl_ac_uk/EYjBLh5rpLVGvxJr_Hd5-fUBP3Ds47AMNsrdakNDht6gLw?e=WggiKS&download=1"
+wget -O synthseg_2.0.h5 --no-check-certificate "https://liveuclac-my.sharepoint.com/:u:/g/personal/ucacjhc_ucl_ac_uk/Ecp-5bZiYENOviQeLGqwbBEByzr0ldkjCXHpJ8OlmsH7Hg?e=YBdV5y&download=1"
+wget -O synthseg_parc_2.0.h5 --no-check-certificate "https://liveuclac-my.sharepoint.com/:u:/g/personal/ucacjhc_ucl_ac_uk/ESNSSoF5dJtBgo_6VRhfyhsB2P-uY-s54JqLXmRQr0hGhA?e=Ngof4H&download=1"
+wget -O synthseg_qc_2.0.h5 --no-check-certificate "https://liveuclac-my.sharepoint.com/:u:/g/personal/ucacjhc_ucl_ac_uk/EevfKVSCigdHkBPs4LUrD-cBd_m1-qqrHaz29sAJvYfXMw?e=7DYfQ0&download=1"
+wget -O synthseg_robust_2.0.h5 --no-check-certificate "https://liveuclac-my.sharepoint.com/:u:/g/personal/ucacjhc_ucl_ac_uk/EYh4ZqSqgRBAiJ56sQtE_hgBJVkISSzhBzMFgxmnoOKN_Q?e=v4c44P&download=1"
